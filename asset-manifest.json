@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Formulario-Frontend/static/css/main.1de3a484.css",
+    "main.js": "/Formulario-Frontend/static/js/main.6e4da817.js",
+    "static/js/787.97a945da.chunk.js": "/Formulario-Frontend/static/js/787.97a945da.chunk.js",
+    "index.html": "/Formulario-Frontend/index.html",
+    "main.1de3a484.css.map": "/Formulario-Frontend/static/css/main.1de3a484.css.map",
+    "main.6e4da817.js.map": "/Formulario-Frontend/static/js/main.6e4da817.js.map",
+    "787.97a945da.chunk.js.map": "/Formulario-Frontend/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de3a484.css",
+    "static/js/main.6e4da817.js"
+  ]
+}
